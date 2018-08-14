@@ -1,8 +1,8 @@
 package main
 
 import (
-  "os"
-  "io"
+	"os"
+	"io"
 	"fmt"
 	"time"
 	"errors"
