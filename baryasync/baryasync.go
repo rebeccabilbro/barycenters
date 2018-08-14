@@ -1,11 +1,11 @@
 package main
 
 import (
-  "os"
-  "io"
+        "os"
+	"io"
 	"fmt"
 	"time"
-  "bufio"
+	"bufio"
 	"errors"
 )
 
